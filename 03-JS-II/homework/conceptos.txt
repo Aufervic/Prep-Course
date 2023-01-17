@@ -1,0 +1,18 @@
+for
+El bucle for permite hacer una misma tarea repetidamente,
+El bucle for repite una acción varias veces, hasta cumplir 
+con una condición de finalización, para evitar que el bucle se repita indefinidamente.
+
+&&
+El operador lógico && (AND) evalúa los operandos de izquierda a derecha,
+devuelve falso cuando el primer operando es falso, pero si es verdadero
+devuelve el segundo operando.
+
+||
+El operador lógico || (OR) devuelve verdadero sí y solo sí uno o mas de sus operandos
+es verdadero
+
+!
+El operador lógico ! (not) cambia el valor booleano del operando a su derecha por el opuesto,
+si es falso lo cambia por true, y viceversa.
+
