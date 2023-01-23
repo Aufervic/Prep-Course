@@ -1,0 +1,4 @@
+Arrays
+Es un objeto que permite, almacenar todo tipo de datos bajo un mismo
+nombre de variable. Los valores almacenados en el array son guardados en unaposicion
+específica y pueden ser accedidos mediante el uso de índices.
